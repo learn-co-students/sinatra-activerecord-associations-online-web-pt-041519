@@ -1,3 +1,4 @@
+kim
 # ActiveRecord Associations in Sinatra
 
 ## Objectives
